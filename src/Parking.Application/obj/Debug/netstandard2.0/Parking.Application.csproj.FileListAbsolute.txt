@@ -1,0 +1,16 @@
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.deps.json
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.dll
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Application.pdb
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.dll
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.dll
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Domain.pdb
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Curso\Parking_Edu\Parking.Application\bin\Debug\netstandard2.0\Parking.Infra.pdb
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csprojAssemblyReference.cache
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CoreCompileInputs.cache
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfoInputs.cache
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.AssemblyInfo.cs
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.csproj.CopyComplete
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.dll
+C:\Curso\Parking_Edu\Parking.Application\obj\Debug\netstandard2.0\Parking.Application.pdb

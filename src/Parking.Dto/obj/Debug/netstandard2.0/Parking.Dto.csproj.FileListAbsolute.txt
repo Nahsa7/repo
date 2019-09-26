@@ -1,0 +1,9 @@
+C:\Curso\Parking_Edu\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.deps.json
+C:\Curso\Parking_Edu\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.dll
+C:\Curso\Parking_Edu\Parking.Dto\bin\Debug\netstandard2.0\Parking.Dto.pdb
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.csprojAssemblyReference.cache
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.csproj.CoreCompileInputs.cache
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.AssemblyInfoInputs.cache
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.AssemblyInfo.cs
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.dll
+C:\Curso\Parking_Edu\Parking.Dto\obj\Debug\netstandard2.0\Parking.Dto.pdb
